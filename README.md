@@ -58,7 +58,7 @@ npx serve .
 ```javascript
 const CONFIG = {
   // 管理员密码（请修改为复杂密码！）
-  ADMIN_PASSWORD: 'admin123',
+  ADMIN_PASSWORD: '',
   
   // 商品信息
   PRODUCT: {
@@ -108,3 +108,4 @@ const CONFIG = {
 - 添加微信收款码（增加第二个Tab）
 - 添加邮件/短信通知功能
 - 增加更多商品支持
+
